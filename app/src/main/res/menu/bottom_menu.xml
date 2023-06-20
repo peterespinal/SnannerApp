@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/Home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="@string/Home"
+        app:showAsAction="ifRoom" />
+    <item android:id="@+id/List"
+        android:icon="@drawable/ic_baseline_list_24"
+        android:title="@string/list"
+        app:showAsAction="ifRoom" />
+    <item android:id="@+id/Scanner"
+        android:icon="@drawable/ic_baseline_qr_code_scanner_24"
+        android:title="@string/scanner"
+        app:showAsAction="ifRoom" />
+</menu>
