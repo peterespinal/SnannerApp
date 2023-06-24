@@ -7,5 +7,19 @@
     <string name="list">List</string>
     <string name="scanner">Scanner</string>
     <string name="company_name">Company name</string>
-
+    <string name="event">Event</string>
+    <string name="sales">Sales</string>
+    <string name="reserved">Reserved</string>
+    <string name="analytics">Analytics</string>
+    <string name="admin">Admin</string>
+    <string name="settings">Settings</string>
+    <string name="todo">TODO</string>
+    <string name="event_card_subTittle">Tab here to Create event,manage current Event, create tickets and more</string>
+    <string name="sales_card_subTittle">In this tab you can sale ticket and check the previous sales</string>
+    <string name="reserve_card_subTittle">Here you can make customers reservation View the stage map and more</string>
+    <string name="analytics_card_subTittle">View your business analytics you can see all numbers of your business</string>
+    <string name="admin_card_subTittle">see how much ticket your employee sale and a lot more</string>
+    <string name="setting_card_subTittle">here you can customize your app manage your login and more</string>
+    <string name="calendar">Calendar</string>
+    <string name="home_toolbar_menu">Home toolbar menu</string>
 </resources>

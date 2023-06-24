@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/home_calendar"
+        android:icon="@drawable/ic_baseline_event_24"
+        android:title="@string/calendar"
+        app:showAsAction="ifRoom" />
+    <item android:id="@+id/home_toolbar_menu"
+        android:icon="@drawable/ic_baseline_menu_24"
+        android:title="@string/home_toolbar_menu"
+        app:showAsAction="ifRoom" />
+</menu>
